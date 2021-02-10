@@ -43,6 +43,12 @@
             <groupId>love.forte.simple-robot</groupId>
             <artifactId>component-mirai-spring-boot-starter</artifactId>
         </dependency>
+
+        <!-- 使用spring的logging -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-logging</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
