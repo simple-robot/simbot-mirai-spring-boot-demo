@@ -1,4 +1,4 @@
-# simbot Demo - Mirai
+# Simbot springboot starter demo - Mirai
 
 这是[simple-robot](https://github.com/ForteScarlet/simpler-robot) 框架使用[mirai组件](https://github.com/ForteScarlet/simpler-robot/tree/dev/component/component-mirai) 对接[Mirai](https://github.com/mamoe/mirai) 并整合为 Spring Boot 的Demo项目。
 
