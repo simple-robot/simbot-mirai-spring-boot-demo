@@ -29,7 +29,7 @@
             <dependency>
                 <groupId>love.forte.simple-robot</groupId>
                 <artifactId>parent</artifactId>
-                <version>2.0.8</version>
+                <version>2.1.0-M1</version><!--vv-->
                 <scope>import</scope>
                 <type>pom</type>
             </dependency>
