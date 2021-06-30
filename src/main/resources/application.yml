@@ -6,5 +6,5 @@ logging:
 
 simbot:
   core:
-    bots: # 你的bot的 账号:密码
-
+    # 扫描 simbot-bots目录下的所有 .bot 文件。
+    bot-resource-type: RESOURCE_FIRST
