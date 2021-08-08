@@ -53,6 +53,7 @@
 
     <build>
         <plugins>
+            <!-- Springboot打包插件。使用 mvn package 进行打包。 -->
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
